@@ -1,3 +1,9 @@
+## 🚀 Live Demo
+
+[Click here to try my Student Marks Prediction App](https://student-marks-prediction-yscba9rjewvkf8d2grncvv.streamlit.app/)
+
+---
+
 Student Marks Prediction Using Multiple Linear Regression
 
 Project Overview
